@@ -1,0 +1,10 @@
+Untuk membuat module gunakan perintah
+go mod init nama-module
+
+cara buat tag
+git tag v1.0.0
+
+untuk menambah depdensi gunakan perintah
+go get nama-module
+
+nanti otomatis golang akan download librarynya dan dimasukan ke folder proyek.
